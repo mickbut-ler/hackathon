@@ -96,15 +96,4 @@ Tailwind documentation:
 
 ---
 
-## Notes
 
-* `node_modules` is ignored and should not be committed
-* Make sure the backend is running before using frontend features that depend on it
-
----
-
-If you want, I can also:
-
-* Add a **project structure** section
-* Add **API / env variable descriptions**
-* Tighten it for **hackathon / internal use**
